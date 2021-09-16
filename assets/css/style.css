@@ -19,3 +19,13 @@ header{
   height: 100px;
   background-color: #DB61DD;
 }
+
+main{
+  margin: 20px 0 10px 0;
+}
+
+.jumbotron{
+  height: 250px;
+  background-color: #DACE6D;
+  margin-bottom: 20px;
+}
