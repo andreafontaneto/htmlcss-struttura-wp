@@ -29,3 +29,29 @@ main{
   background-color: #DACE6D;
   margin-bottom: 20px;
 }
+
+.content{
+  background-color: #1771FB;
+  padding-bottom: 10px;
+}
+
+.title{
+  height: 50px;
+  background-color: #9DC5E0;
+  margin-bottom: 20px;
+}
+
+.left, .center, .right{
+  float: left;
+  height: 300px;
+  background-color: #9DC5E0;
+}
+
+.left, .right{
+  width: 19%;
+}
+
+.center{
+  width: 60%;
+  margin: 0 1%;
+}
