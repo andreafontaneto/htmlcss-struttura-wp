@@ -9,3 +9,8 @@
   display: table;
   clear: both;
 }
+
+.container{
+  width: 80%;
+  margin: 0 auto;
+}
