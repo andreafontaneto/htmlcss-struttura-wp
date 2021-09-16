@@ -21,7 +21,7 @@ header{
 }
 
 main{
-  margin: 20px 0 10px 0;
+  margin: 20px 0 5px 0;
 }
 
 .jumbotron{
@@ -38,7 +38,7 @@ main{
 .title{
   height: 50px;
   background-color: #9DC5E0;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 .left, .center, .right{
@@ -48,10 +48,15 @@ main{
 }
 
 .left, .right{
-  width: 19%;
+  width: 18%;
 }
 
 .center{
   width: 60%;
-  margin: 0 1%;
+  margin: 0 2%;
+}
+
+footer{
+  height: 50px;
+  background-color: #7100F6;
 }
