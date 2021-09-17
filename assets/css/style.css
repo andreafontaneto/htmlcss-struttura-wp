@@ -15,19 +15,20 @@
   margin: 20px auto;
 }
 
-header{
-  height: 100px;
+.header-top{
+  height: 70px;
   background-color: #DB61DD;
+  margin-bottom: 20px;
+}
+
+.jumbotron{
+  height: 500px;
+  background-color: #DACE6D;
+  margin-bottom: 20px;
 }
 
 main{
   margin: 20px 0 10px 0;
-}
-
-.jumbotron{
-  height: 250px;
-  background-color: #DACE6D;
-  margin-bottom: 20px;
 }
 
 .content{
@@ -36,27 +37,27 @@ main{
 }
 
 .title{
-  height: 50px;
+  height: 70px;
   background-color: #9DC5E0;
   margin-bottom: 20px;
 }
 
 .left, .center, .right{
   float: left;
-  height: 300px;
+  min-height: 500px;
   background-color: #9DC5E0;
 }
 
 .left, .right{
-  width: 19%;
+  width: 20%;
 }
 
 .center{
-  width: 60%;
-  margin: 0 1%;
+  width: 56%;
+  margin: 0 2%;
 }
 
 footer{
-  height: 50px;
+  height: 70px;
   background-color: #7100F6;
 }
